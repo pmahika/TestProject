@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-annotations-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jackson-databind-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-schema-validator-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-schema-validator-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/json-schema-validator-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/kotlin-extensions-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/kotlin-stdlib-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/kotlin-stdlib-common-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/kotlin-stdlib-jdk7-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/scala-support-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-commons-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-mock-mvc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/spring-web-test-client-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/testng-7.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/xml-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/itsma/Desktop/Executables/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
